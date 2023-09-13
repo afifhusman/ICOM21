@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-conference.iium.edu.my	TRUE	/	FALSE	1999999999	PHPSESSID	75s419q2be8raghjo6mcq9icrp
-
